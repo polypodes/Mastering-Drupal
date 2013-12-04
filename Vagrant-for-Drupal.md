@@ -8,7 +8,7 @@ Vagrantfile links
 * https://github.com/joesb/vagrant-puppet-drupal-base
 * https://github.com/FunnyMonkey/fm-vagrant
 * https://github.com/delphian/vagrant-drupal-7
-
+* https://delicious.com/search/drupal.vagrant
 
 How-To's
 --------
