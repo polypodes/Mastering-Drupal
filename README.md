@@ -1,4 +1,4 @@
 Mastering-Drupal
 ================
 
-Our Drupal tips
+Our Drupal recipes
