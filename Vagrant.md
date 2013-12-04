@@ -1,8 +1,8 @@
 Initializing & provisioning Drupal instance in Vagrant boxes
 ============================================================
 
-Links
------
+Vagrantfile links
+-----------------
 
 * https://github.com/Laudanum/vagrant-puppet-drupal
 * https://github.com/joesb/vagrant-puppet-drupal-base
@@ -16,6 +16,8 @@ How-To's
 * https://www.google.fr/search?q=Vagrantfile+for+Drupal+7
 * https://drupal.org/node/2008758
 * http://webwash.net/tutorials/getting-started-drupal-vagrant
+* http://www.linuxjournal.com/content/using-salt-stack-and-vagrant-drupal-development
+* http://blog.ricardoamaro.com/tags/vagrant
 
 Modules (?)
 -----------
